@@ -8,11 +8,11 @@ const App = () => (
   <div>
     <Navbar />
     <Header />
-    {/* <AboutUs />
+    <AboutUs />
     <SpecialMenu />
     <Chef />
     <Intro />
-    <Laurels />
+    {/* <Laurels />
     <Gallery />
     <FindUs />
     <Footer /> */}
